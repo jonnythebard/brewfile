@@ -10,6 +10,6 @@ cask "notion"
 cask "pycharm"
 cask "slack"
 cask "visual-studio-code"
-cask "warp"
+cask "iterm2"
 mas "KakaoTalk", id: 869223134
 mas "Magnet", id: 441258766
