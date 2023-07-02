@@ -1,15 +1,16 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+cask "iterm2"
+cask "istat-menus"
+cask "google-chrome"
 brew "git"
 brew "mas"
+mas "Magnet", id: 441258766
 cask "docker"
-cask "google-chrome"
-cask "istat-menus"
 cask "notion"
 cask "pycharm"
 cask "slack"
 cask "visual-studio-code"
-cask "iterm2"
 mas "KakaoTalk", id: 869223134
-mas "Magnet", id: 441258766
+brew "awscli"
