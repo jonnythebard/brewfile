@@ -14,3 +14,4 @@ cask "slack"
 cask "visual-studio-code"
 mas "KakaoTalk", id: 869223134
 brew "awscli"
+brew "maccy"
